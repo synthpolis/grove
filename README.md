@@ -2,6 +2,8 @@
 
 Compile XGBoost models into synthesizable Verilog HDL. Every decision tree becomes a combinational circuit. All trees evaluate in parallel. One clock cycle per prediction.
 
+![Grove overview](grove_overview.png)
+
 ## How it works
 
 ```
